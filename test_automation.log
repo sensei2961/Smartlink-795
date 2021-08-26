@@ -1,0 +1,30 @@
+2021-08-26 00:38:37,298 - support.logger - INFO - 
+Started scenario: Log in
+2021-08-26 00:38:51,598 - support.logger - INFO - 
+Started step: <given "Open Login page">
+2021-08-26 00:38:56,233 - support.logger - INFO - 
+Started step: <when "Enter username 'maxiotega'">
+2021-08-26 00:38:57,302 - support.logger - INFO - 
+Started step: <when "Enter password '123123'">
+2021-08-26 00:45:39,097 - support.logger - INFO - 
+Started scenario: Login using valid credentials
+2021-08-26 00:45:44,249 - support.logger - INFO - 
+Started step: <given "Open Login page">
+2021-08-26 00:45:46,644 - support.logger - INFO - 
+Started step: <when "Enter username maxiotega">
+2021-08-26 00:45:47,744 - support.logger - INFO - 
+Started step: <when "Enter password 123123">
+2021-08-26 00:45:48,692 - support.logger - INFO - 
+Started step: <when "Click Login button">
+2021-08-26 00:45:48,925 - support.logger - INFO - 
+Step failed: <when "Click Login button">
+2021-08-26 00:46:51,503 - support.logger - INFO - 
+Started scenario: Login using valid credentials
+2021-08-26 00:46:56,076 - support.logger - INFO - 
+Started step: <given "Open Login page">
+2021-08-26 00:46:58,080 - support.logger - INFO - 
+Started step: <when "Enter username maxiotega">
+2021-08-26 00:46:59,040 - support.logger - INFO - 
+Started step: <when "Enter password 123123">
+2021-08-26 00:47:00,271 - support.logger - INFO - 
+Started step: <when "Click Login button">
