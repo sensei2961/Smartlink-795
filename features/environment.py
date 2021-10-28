@@ -14,7 +14,7 @@ def browser_init(context, test_name):
     :param context: Behave context
     :param test_name: scenario.name
     """
-    # context.driver = webdriver.Chrome()
+    # context.driver = webdriver.Chrome(executable_path='/Users/maxyu/PycharmProjects/Smartlink-795/chromedriver.exe')
     # context.browser = webdriver.Safari()
     # context.driver = webdriver.Firefox(executable_path='/Users/svetlanalevinsohn/Desktop/QAAuto6/python-selenium-automation-6/geckodriver')
 
@@ -28,8 +28,8 @@ def browser_init(context, test_name):
     # context.driver = EventFiringWebDriver(webdriver.Chrome(), MyListener())
     # for headless mode ###
     # context.driver = EventFiringWebDriver(webdriver.Chrome(chrome_options=options), MyListener())
-
-    ### for browerstack ###
+    #
+    # for browerstack ###
     desired_cap = {
         'browser': 'chrome',
         'browser_version': '89',
