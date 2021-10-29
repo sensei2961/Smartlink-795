@@ -1114,3 +1114,225 @@ Started step: <then "Verify Email has been sent">
 Started step: <when "Open Gmail max.yurkaev@securenettech.com">
 2021-10-10 14:19:01,653 - support.logger - INFO - 
 Step failed: <when "Open Gmail max.yurkaev@securenettech.com">
+2021-10-28 21:57:39,671 - support.logger - INFO - 
+Started scenario: Arm Stay
+2021-10-28 21:57:44,526 - support.logger - INFO - 
+Started step: <given "Open Login page">
+2021-10-28 21:57:50,344 - support.logger - INFO - 
+Started step: <when "Login max.luna/123456">
+2021-10-28 21:57:55,611 - support.logger - INFO - 
+Started step: <when "Click Arm Stay">
+2021-10-28 21:57:55,616 - support.logger - INFO - 
+Step failed: <when "Click Arm Stay">
+2021-10-28 22:01:08,323 - support.logger - INFO - 
+Started scenario: Arm Stay
+2021-10-28 22:01:13,535 - support.logger - INFO - 
+Started step: <given "Open Login page">
+2021-10-28 22:01:16,215 - support.logger - INFO - 
+Started step: <when "Login max.luna/123456">
+2021-10-28 22:01:22,796 - support.logger - INFO - 
+Started step: <when "Click Arm Stay">
+2021-10-28 22:01:26,764 - support.logger - INFO - 
+Step failed: <when "Click Arm Stay">
+2021-10-28 22:03:49,394 - support.logger - INFO - 
+Started scenario: Arm Stay
+2021-10-28 22:03:55,391 - support.logger - INFO - 
+Started step: <given "Open Login page">
+2021-10-28 22:03:58,185 - support.logger - INFO - 
+Started step: <when "Login max.luna/123456">
+2021-10-28 22:04:04,549 - support.logger - INFO - 
+Started step: <when "Click Arm Stay">
+2021-10-28 22:04:07,987 - support.logger - INFO - 
+Step failed: <when "Click Arm Stay">
+2021-10-28 22:08:21,892 - support.logger - INFO - 
+Started scenario: Arm Stay
+2021-10-28 22:08:27,711 - support.logger - INFO - 
+Started step: <given "Open Login page">
+2021-10-28 22:08:30,418 - support.logger - INFO - 
+Started step: <when "Login max.luna/123456">
+2021-10-28 22:08:48,615 - support.logger - INFO - 
+Step failed: <when "Login max.luna/123456">
+2021-10-28 22:19:17,488 - support.logger - INFO - 
+Started scenario: Arm Stay
+2021-10-28 22:19:24,082 - support.logger - INFO - 
+Started step: <given "Open Login page">
+2021-10-28 22:19:32,712 - support.logger - INFO - 
+Started step: <when "Login max.luna/123456">
+2021-10-28 22:19:56,572 - support.logger - INFO - 
+Step failed: <when "Login max.luna/123456">
+2021-10-28 22:20:39,928 - support.logger - INFO - 
+Started scenario: Arm Stay
+2021-10-28 22:20:45,250 - support.logger - INFO - 
+Started step: <given "Open Login page">
+2021-10-28 22:20:48,524 - support.logger - INFO - 
+Started step: <when "Login max.luna/123456">
+2021-10-28 22:21:07,113 - support.logger - INFO - 
+Step failed: <when "Login max.luna/123456">
+2021-10-28 22:25:45,914 - support.logger - INFO - 
+Started scenario: Arm Stay
+2021-10-28 22:25:50,686 - support.logger - INFO - 
+Started step: <given "Open Login page">
+2021-10-28 22:25:58,053 - support.logger - INFO - 
+Started step: <when "Login max.luna/123456">
+2021-10-28 22:26:04,700 - support.logger - INFO - 
+Started step: <when "Click Arm Stay">
+2021-10-28 22:26:11,920 - support.logger - INFO - 
+Step failed: <when "Click Arm Stay">
+2021-10-28 22:34:27,291 - support.logger - INFO - 
+Started scenario: Arm Stay
+2021-10-28 22:34:32,648 - support.logger - INFO - 
+Started step: <given "Open Login page">
+2021-10-28 22:34:35,872 - support.logger - INFO - 
+Started step: <when "Login max.luna/123456">
+2021-10-28 22:34:42,225 - support.logger - INFO - 
+Started step: <when "Click Arm Stay">
+2021-10-28 22:34:49,894 - support.logger - INFO - 
+Step failed: <when "Click Arm Stay">
+2021-10-28 22:39:36,338 - support.logger - INFO - 
+Started scenario: Arm Stay
+2021-10-28 22:39:40,172 - support.logger - INFO - 
+Started step: <given "Open Login page">
+2021-10-28 22:39:44,335 - support.logger - INFO - 
+Started step: <when "Login max.luna/123456">
+2021-10-28 22:39:50,324 - support.logger - INFO - 
+Started step: <when "Click Arm Stay">
+2021-10-28 22:41:42,592 - support.logger - INFO - 
+Started scenario: Arm Stay
+2021-10-28 22:41:47,869 - support.logger - INFO - 
+Started step: <given "Open Login page">
+2021-10-28 22:41:52,422 - support.logger - INFO - 
+Started step: <when "Login max.luna/123456">
+2021-10-28 22:42:10,285 - support.logger - INFO - 
+Step failed: <when "Login max.luna/123456">
+2021-10-28 22:46:17,219 - support.logger - INFO - 
+Started scenario: Arm Stay
+2021-10-28 22:46:22,249 - support.logger - INFO - 
+Started step: <given "Open Login page">
+2021-10-28 22:46:26,412 - support.logger - INFO - 
+Started step: <when "Login max.luna/123456">
+2021-10-28 22:46:32,420 - support.logger - INFO - 
+Started step: <when "Click Arm Stay">
+2021-10-28 22:47:40,206 - support.logger - INFO - 
+Started scenario: Arm Stay
+2021-10-28 22:47:45,044 - support.logger - INFO - 
+Started step: <given "Open Login page">
+2021-10-28 22:47:49,683 - support.logger - INFO - 
+Started step: <when "Login max.luna/123456">
+2021-10-28 22:47:55,547 - support.logger - INFO - 
+Started step: <when "Click Arm Stay">
+2021-10-28 22:50:58,287 - support.logger - INFO - 
+Started scenario: Arm Stay
+2021-10-28 22:51:04,373 - support.logger - INFO - 
+Started step: <given "Open Login page">
+2021-10-28 22:51:07,281 - support.logger - INFO - 
+Started step: <when "Login max.luna/123456">
+2021-10-28 22:51:13,887 - support.logger - INFO - 
+Started step: <when "Click Arm Stay">
+2021-10-28 22:51:21,501 - support.logger - INFO - 
+Started step: <then "Panel is Armed Stay">
+2021-10-28 22:51:21,762 - support.logger - INFO - 
+Step failed: <then "Panel is Armed Stay">
+2021-10-28 22:53:55,621 - support.logger - INFO - 
+Started scenario: Arm Stay
+2021-10-28 22:54:00,754 - support.logger - INFO - 
+Started step: <given "Open Login page">
+2021-10-28 22:54:06,379 - support.logger - INFO - 
+Started step: <when "Login max.luna/123456">
+2021-10-28 22:54:12,168 - support.logger - INFO - 
+Started step: <when "Click Arm Stay">
+2021-10-28 22:54:19,454 - support.logger - INFO - 
+Started step: <then "Panel is Armed Stay">
+2021-10-28 22:54:19,832 - support.logger - INFO - 
+Step failed: <then "Panel is Armed Stay">
+2021-10-28 22:59:03,248 - support.logger - INFO - 
+Started scenario: Arm Stay
+2021-10-28 22:59:08,345 - support.logger - INFO - 
+Started step: <given "Open Login page">
+2021-10-28 22:59:12,975 - support.logger - INFO - 
+Started step: <when "Login max.luna/123456">
+2021-10-28 22:59:18,428 - support.logger - INFO - 
+Started step: <when "Click Arm Stay">
+2021-10-28 22:59:26,072 - support.logger - INFO - 
+Started step: <then "Panel is Armed Stay">
+2021-10-28 22:59:26,714 - support.logger - INFO - 
+Step failed: <then "Panel is Armed Stay">
+2021-10-28 23:01:25,880 - support.logger - INFO - 
+Started scenario: Arm Stay
+2021-10-28 23:01:30,317 - support.logger - INFO - 
+Started step: <given "Open Login page">
+2021-10-28 23:01:34,669 - support.logger - INFO - 
+Started step: <when "Login max.luna/123456">
+2021-10-28 23:01:39,836 - support.logger - INFO - 
+Started step: <when "Click Arm Stay">
+2021-10-28 23:01:47,617 - support.logger - INFO - 
+Started step: <then "Panel is Armed Stay">
+2021-10-28 23:02:47,925 - support.logger - INFO - 
+Step failed: <then "Panel is Armed Stay">
+2021-10-28 23:07:18,797 - support.logger - INFO - 
+Started scenario: Arm Stay
+2021-10-28 23:07:25,122 - support.logger - INFO - 
+Started step: <given "Open Login page">
+2021-10-28 23:07:31,513 - support.logger - INFO - 
+Started step: <when "Login max.luna/123456">
+2021-10-28 23:07:37,253 - support.logger - INFO - 
+Started step: <when "Click Arm Stay">
+2021-10-28 23:07:47,373 - support.logger - INFO - 
+Started step: <then "Panel is Armed Stay">
+2021-10-28 23:18:17,008 - support.logger - INFO - 
+Started scenario: Arm Stay
+2021-10-28 23:18:22,265 - support.logger - INFO - 
+Started step: <given "Open Login page">
+2021-10-28 23:18:29,477 - support.logger - INFO - 
+Started step: <when "Login max.luna/123456">
+2021-10-28 23:21:21,638 - support.logger - INFO - 
+Started scenario: Arm Stay
+2021-10-28 23:21:25,905 - support.logger - INFO - 
+Started step: <given "Open Login page">
+2021-10-28 23:21:28,461 - support.logger - INFO - 
+Started step: <when "Login max.luna/123456">
+2021-10-28 23:21:34,137 - support.logger - INFO - 
+Started step: <when "Click Arm Stay">
+2021-10-28 23:21:41,851 - support.logger - INFO - 
+Started step: <then "Panel is Armed Stay">
+2021-10-28 23:24:34,959 - support.logger - INFO - 
+Started scenario: Arm Stay
+2021-10-28 23:24:38,897 - support.logger - INFO - 
+Started step: <given "Open Login page">
+2021-10-28 23:24:43,665 - support.logger - INFO - 
+Started step: <when "Login max.luna/123456">
+2021-10-28 23:24:49,191 - support.logger - INFO - 
+Started step: <when "Click Arm Stay">
+2021-10-28 23:24:56,905 - support.logger - INFO - 
+Started step: <then "Panel is Armed Stay">
+2021-10-28 23:25:57,966 - support.logger - INFO - 
+Started scenario: Disarm Stay
+2021-10-28 23:26:04,476 - support.logger - INFO - 
+Started step: <given "Open Login page">
+2021-10-28 23:26:07,233 - support.logger - INFO - 
+Started step: <when "Login max.luna/123456">
+2021-10-28 23:26:13,504 - support.logger - INFO - 
+Started step: <when "Click Disarm">
+2021-10-28 23:26:20,782 - support.logger - INFO - 
+Started step: <then "Panel is Disarmed">
+2021-10-28 23:43:08,721 - support.logger - INFO - 
+Started scenario: Arm Stay
+2021-10-28 23:43:13,523 - support.logger - INFO - 
+Started step: <given "Open Login page">
+2021-10-28 23:43:16,315 - support.logger - INFO - 
+Started step: <when "Login max.luna/123456">
+2021-10-28 23:43:22,346 - support.logger - INFO - 
+Started step: <when "Click Arm Stay">
+2021-10-28 23:43:30,193 - support.logger - INFO - 
+Started step: <then "Panel is Armed Stay">
+2021-10-28 23:43:30,667 - support.logger - INFO - 
+Step failed: <then "Panel is Armed Stay">
+2021-10-28 23:43:31,369 - support.logger - INFO - 
+Started scenario: Disarm Stay
+2021-10-28 23:43:36,884 - support.logger - INFO - 
+Started step: <given "Open Login page">
+2021-10-28 23:43:39,726 - support.logger - INFO - 
+Started step: <when "Login max.luna/123456">
+2021-10-28 23:43:46,123 - support.logger - INFO - 
+Started step: <when "Click Disarm">
+2021-10-28 23:44:46,491 - support.logger - INFO - 
+Step failed: <when "Click Disarm">

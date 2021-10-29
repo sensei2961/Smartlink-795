@@ -7,6 +7,8 @@ class LoginPage(Page):
     LOGIN_BUTTON = (By.ID, "submit")
     INVALID_CREDENTIALS_ERROR = (By.CSS_SELECTOR, "div.error_box")
     FORGOT_PASSWORD = (By.CSS_SELECTOR, "a.forgot-phrase-link")
+    ACCOUNT_SELECTION_DIALOG = (By.ID,"#accountSelectionDialog")
+    FIRST_ACCOUNT = (By.CSS_SELECTOR, ".selectAccount")
 
     def open_login_page(self):
         self.open_url('https://smartlink.secure.direct/7.95/html/login.php')

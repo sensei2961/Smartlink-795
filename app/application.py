@@ -12,4 +12,4 @@ class Application:
         self.login_page = LoginPage(self.driver)
         self.side_menu = SideMenu(self.driver)
         self.forgot_password_page = ForgotPassword(self.driver)
-        self.security_page = AlarmControl(self.driver)
+        self.alarm_control_page = AlarmControl(self.driver)

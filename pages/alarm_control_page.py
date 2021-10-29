@@ -1,6 +1,6 @@
 from selenium.webdriver.common.by import By
 from pages.base_page import Page
-
+import time
 
 
 class AlarmControl(Page):
@@ -16,7 +16,12 @@ class AlarmControl(Page):
     GLOBAL_CHIME_TOGGLE = (By.ID, "global-chime")
 
     def click_arm_stay(self):
-        self.click(*self.ARM_STAY)
+        self.wait_for_element_click(*self.ARM_STAY)
 
-    def panel_status(self, status):
-        assert self.find_element(*self.STATUS).contains(status), "Incorrect Status"
+    def panel_status(self, expected_status):
+        time.sleep(60)
+        status_text = self.find_element(*self.STATUS).text
+        assert expected_status in status_text, f'Incorrect Status'
+
+    def click_disarm(self):
+        self.wait_for_element_click(*self.DISARM)

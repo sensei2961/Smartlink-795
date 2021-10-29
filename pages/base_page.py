@@ -6,7 +6,7 @@ class Page:
 
     def __init__(self, driver):
         self.driver = driver
-        self.wait = WebDriverWait(self.driver, 10)
+        self.wait = WebDriverWait(self.driver, 60)
 
     def hover_over_element(self, *locator):
         element = self.find_element(*locator)
